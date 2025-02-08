@@ -10,4 +10,4 @@ Please feel free to email me at ruoheng.du@columbia.edu for any more information
 
 * This project is done in collaboration with Zhiqi Ma, Bingqian Lu, and Zirui Zhou.
 
-<img width="800" alt="gdx" src="https://github.com/ruoheng-du/ETFs-trading-strategy/raw/main/assets/gdx.png">
+<img width="600" alt="gdx" src="https://github.com/ruoheng-du/ETFs-trading-strategy/raw/main/assets/gdx.png">
